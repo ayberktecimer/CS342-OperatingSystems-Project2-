@@ -16,6 +16,6 @@ $ make
 $ Format ./synthistogram minvalue maxvalue bincount N file1 ... fileN outfile B
 $ Example ./synthistogram 1 100 5 3 file1 file2 file3 outfile 10
 ```
-Team Members:
-Ayberk Tecimer
+Team Members: <br />
+Ayberk Tecimer <br />
 Emre Sülün
