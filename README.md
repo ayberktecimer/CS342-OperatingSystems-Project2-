@@ -13,5 +13,9 @@ In this part, a similar application as in part A is developed. But this time, fo
 ### To run Part B
 ```
 $ make
-$ Format ./synthistogram minvalue maxvalue bincount N file1 ... fileN outfile
-$ Example ./synthistogram 1 100 5 3 file1 file2 file3 outfile
+$ Format ./synthistogram minvalue maxvalue bincount N file1 ... fileN outfile B
+$ Example ./synthistogram 1 100 5 3 file1 file2 file3 outfile 10
+```
+Team Members:
+Ayberk Tecimer
+Emre Sülün
